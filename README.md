@@ -5,6 +5,7 @@ Script Credit: https://github.com/plasmaFPS/qb-metaldetecting
 
 **1.** Insert the images located in the [IMAGES] folder into your inventories html > images directory.
 
+
 **2. (Optional)** If you would like the metal detector purchaseable from a shop: 
 - Insert this line into your qb-shops > config.lua (wherever you want it), ensure you change the array index & slot #'s to match your config.
 
