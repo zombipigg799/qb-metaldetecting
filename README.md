@@ -18,6 +18,7 @@ Script Credit: https://github.com/plasmaFPS/qb-metaldetecting
   },
 </pre>
 
+------------------------------------------------------------------------------------------------
 **3.** Insert this list of items in your qb-core > shared > items.lua
 <pre>
  
